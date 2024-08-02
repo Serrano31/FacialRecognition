@@ -5,6 +5,7 @@
    * [What is this?](#what-is-this)
    * [Requirements](#requirements)
    * [Installation](#installation)
+   * [Paper](paper.pdf)
    * [Authors](#authors)
 
 ## What is this?
